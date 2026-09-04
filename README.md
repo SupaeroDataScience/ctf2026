@@ -2,9 +2,9 @@
 
 Question and data repository for the [2026 Capture the Flag](https://supaerodatascience.github.io/310/ctf.html).
 
-[Leaderboard](http://34.65.72.129/)
+[Leaderboard](http://34.65.220.146/)
 
-Server IP: 34.65.72.129
+Server IP: 34.65.220.146
 
 ## Questions - 2026 edition
 
